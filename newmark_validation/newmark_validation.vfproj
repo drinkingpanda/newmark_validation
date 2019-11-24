@@ -26,5 +26,7 @@
 	<Files>
 		<Filter Name="Header Files" Filter="fi;fd;h;inc"/>
 		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
-		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl"/></Files>
+		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
+		<File RelativePath="..\..\..\..\Desktop\1DFEM\1DFEM\ODE_solver.f90"/>
+		<File RelativePath="..\..\Console7\Console7\Source1.f90"/></Filter></Files>
 	<Globals/></VisualStudioProject>
