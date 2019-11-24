@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import (MultipleLocator, FormatStrFormatter,
                                AutoMinorLocator)
 
-nT      = 0.5
+nT      = 11111
 N_Max   = 2000
 delt_tt = 0.02
 alpha   = 0.9
